@@ -24,7 +24,7 @@ package main
 import (
 	"log"
 
-	"github.com/requiemofthesouls/container/config"
+	"github.com/requiemofthesouls/config"
 )
 
 func main() {
@@ -48,8 +48,7 @@ import (
 
 	"github.com/requiemofthesouls/container"
 
-	"github.com/requiemofthesouls/container/config"
-	cfgCont "github.com/requiemofthesouls/container/config/container"
+	"github.com/requiemofthesouls/config"
 )
 
 func main() {

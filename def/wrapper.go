@@ -5,7 +5,7 @@ import (
 
 	"github.com/requiemofthesouls/container"
 
-	"github.com/requiemofthesouls/container/config"
+	"github.com/requiemofthesouls/config"
 )
 
 const DIWrapper = "config.wrapper"

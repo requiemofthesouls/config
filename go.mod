@@ -1,4 +1,4 @@
-module github.com/requiemofthesouls/container/config
+module github.com/requiemofthesouls/config
 
 go 1.20
 
